@@ -7,4 +7,8 @@ Kindly follow the following steps for database connectivity:
 3. After adding both the folders run the xampp control panel app and start apache and mysql
 4. On any browser run localhost/StudentMarks
 
-![alt text](https://drive.google.com/file/d/1oTqGYzN3rSJuoOdQF5mk7Zvf1r5bzShX/view?usp=share_link)
+
+![Screenshot (50)](https://user-images.githubusercontent.com/108777498/202906368-3787591d-1fb6-45a2-abcc-36a71c7a274e.png)
+![Screenshot (52)](https://user-images.githubusercontent.com/108777498/202906379-06e6730e-e42c-4b71-8726-cb4ad0a0f12a.png)
+![Screenshot (53)](https://user-images.githubusercontent.com/108777498/202906382-7d666293-95ef-4e78-b5fd-1324567d2645.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/108777498/202906383-c788ce6f-ad94-4dea-ac12-5083dde3a4f8.png)
